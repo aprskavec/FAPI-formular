@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Champ:wght@400;700&family=Inter:wght@400;700&display=swap');
+
+#frm-showUserForm {
+    width: 602px;
+    font-family: 'Inter', sans-serif;
+    color: #000;
+}
+
+#frm-showUserForm .form_container {
+    width: 600px;
+    border: 1px solid #FFF200;
+    padding: 20px;
+    background: #FFF200;
+    border-radius: 8px;
+}
+
+#frm-showUserForm table {
+    width: 470px;
+}
+
+#frm-showUserForm input[type=text], #frm-showUserForm select, #frm-showUserForm input[type=email] {
+    width: 330px;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #000;
+    background-color: #FFF200;
+}
+
+#frm-showUserForm select[name=currency] {
+    width: 200px;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #000;
+    background-color: #FFF200;
+}
+
+#frm-showUserForm select[name=period] {
+    width: auto;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #000;
+    background-color: #FFF200;
+}
+
+.fapi-form-total th {
+    width: 300px;
+}
+
+.fapi-form-personal-information th {
+    width: 85px;
+}
