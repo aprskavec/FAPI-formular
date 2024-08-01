@@ -1,326 +1,326 @@
 @import url('https://fonts.googleapis.com/css2?family=Champ:wght@400;700&family=Inter:wght@400;700&display=swap');
 
 #fapi-showUserForm {
-    font-family: 'Inter', sans-serif;
-    line-height: 1.5em;
-    color: #000;
+    font-family: 'Inter', sans-serif !important;
+    line-height: 1.5em !important;
+    color: #000 !important;
 }
 
 #fapi-showUserForm .form-container {
-    border: 1px solid #FFF200;
-    font-size: 16px;
-    font-weight: bold;
-    color: #000;
-    margin-top: 20px;
-    padding: 20px;
-    background: #FFF200;
-    border-radius: 8px;
+    border: 1px solid #FFF200 !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    color: #000 !important;
+    margin-top: 20px !important;
+    padding: 20px !important;
+    background: #FFF200 !important;
+    border-radius: 8px !important;
 }
 
 #fapi-showUserForm .form-container-first {
-    margin-top: 0px;
+    margin-top: 0px !important;
 }
 
 .fapi-form-error {
-    color: #000;
-    background: #FFF9D7;
-    border: 1px solid #E2C822;
-    border-radius: 5px;
-    padding: 15px;
-    margin: 30px 0;
-    font-size: 15px;
+    color: #000 !important;
+    background: #FFF9D7 !important;
+    border: 1px solid #E2C822 !important;
+    border-radius: 5px !important;
+    padding: 15px !important;
+    margin: 30px 0 !important;
+    font-size: 15px !important;
 }
 
 #fapi-showUserForm table {
-    margin: 10px auto;
-    border: 0px;
-    table-layout: auto;
+    margin: 10px auto !important;
+    border: 0px !important;
+    table-layout: auto !important;
 }
 
 #fapi-showUserForm .form-container-title {
-    background: #000;
-    padding: 0.5em 10px;
-    color: #FFF200;
-    font-family: 'Champ', sans-serif;
+    background: #000 !important;
+    padding: 0.5em 10px !important;
+    color: #FFF200 !important;
+    font-family: 'Champ', sans-serif !important;
 }
 
 #fapi-showUserForm td, #fapi-showUserForm th {
-    border: 0;
-    padding: 10px;
-    color: #000;
-    font-family: 'Inter', sans-serif;
+    border: 0 !important;
+    padding: 10px !important;
+    color: #000 !important;
+    font-family: 'Inter', sans-serif !important;
 }
 
 #fapi-showUserForm th {
-    text-align: right;
+    text-align: right !important;
 }
 
 .fapi-form-personal-information th {
-    text-align: right;
+    text-align: right !important;
 }
 
 #fapi-showUserForm td.form-container-description {
-    padding-top: 0px;
-    font-size: 13px;
+    padding-top: 0px !important;
+    font-size: 13px !important;
 }
 
 #fapi-showUserForm input[type=text], #fapi-showUserForm input[type=email], #fapi-showUserForm input[type=number] {
-    display: inline;
-    border-radius: 5px;
-    height: 35px;
-    padding: 10px;
-    box-sizing: border-box;
-    border: 1px solid #000;
-    font-family: 'Inter', sans-serif;
-    background-color: #FFF200;
+    display: inline !important;
+    border-radius: 5px !important;
+    height: 35px !important;
+    padding: 10px !important;
+    box-sizing: border-box !important;
+    border: 1px solid #000 !important;
+    font-family: 'Inter', sans-serif !important;
+    background-color: #FFF200 !important;
 }
 
 #fapi-showUserForm input[type=number].number, #fapi-showUserForm input[type=text].number {
-    width: 50px;
-    height: 35px;
-    border-radius: 5px;
-    text-align: right;
+    width: 50px !important;
+    height: 35px !important;
+    border-radius: 5px !important;
+    text-align: right !important;
 }
 
 #fapi-showUserForm .payment-image {
-    max-height: 30px;
-    max-width: 100px;
-    vertical-align: text-bottom;
+    max-height: 30px !important;
+    max-width: 100px !important;
+    vertical-align: text-bottom !important;
 }
 
 #fapi-showUserForm .payment-image-wrapper {
-    margin-left: 10px;
-    display: inline-block;
+    margin-left: 10px !important;
+    display: inline-block !important;
 }
 
 #fapi-showUserForm .payment-image-wrapper img {
-    margin: 0;
-    padding: 0;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 #fapi-showUserForm input[name=shippingAddressBox] {
-    margin-left: 7px;
+    margin-left: 7px !important;
 }
 
 #fapi-showUserForm input[type=checkbox] {
-    margin-right: 6px;
-    -webkit-appearance: checkbox;
-    -moz-appearance: checkbox;
+    margin-right: 6px !important;
+    -webkit-appearance: checkbox !important;
+    -moz-appearance: checkbox !important;
 }
 
 #fapi-showUserForm input[type=radio] {
-    margin-right: 6px;
-    -webkit-appearance: radio;
-    -moz-appearance: radio;
+    margin-right: 6px !important;
+    -webkit-appearance: radio !important;
+    -moz-appearance: radio !important;
 }
 
 #fapi-showUserForm label, #fapi-showUserForm span.fapi-form-label {
-    display: inline;
-    font-size: 14px;
-    margin-right: 2px;
-    text-transform: none;
-    font-weight: bold;
-    font-family: 'Inter', sans-serif;
+    display: inline !important;
+    font-size: 14px !important;
+    margin-right: 2px !important;
+    text-transform: none !important;
+    font-weight: bold !important;
+    font-family: 'Inter', sans-serif !important;
 }
 
 #fapi-showUserForm .fapi-form-sold-out {
-    text-decoration: line-through;
-    color: #888;
+    text-decoration: line-through !important;
+    color: #888 !important;
 }
 
 #fapi-showUserForm .fapi-form-sold-out-legend {
-    margin-left: 5px;
-    font-variant: small-caps;
+    margin-left: 5px !important;
+    font-variant: small-caps !important;
 }
 
 #fapi-showUserForm .form-discount-code-message {
-    display: inline;
-    font-size: 14px;
-    margin-right: 2px;
-    text-transform: none;
-    font-weight: bold;
-    font-family: 'Inter', sans-serif;
+    display: inline !important;
+    font-size: 14px !important;
+    margin-right: 2px !important;
+    text-transform: none !important;
+    font-weight: bold !important;
+    font-family: 'Inter', sans-serif !important;
 }
 
 #fapi-showUserForm select {
-    display: inline;
-    border-radius: 5px;
-    background: #FFF200;
-    border: 1px solid #000;
-    height: 35px;
-    margin-top: 1px;
-    padding: 10px;
-    box-sizing: border-box;
-    font-family: 'Inter', sans-serif;
+    display: inline !important;
+    border-radius: 5px !important;
+    background: #FFF200 !important;
+    border: 1px solid #000 !important;
+    height: 35px !important;
+    margin-top: 1px !important;
+    padding: 10px !important;
+    box-sizing: border-box !important;
+    font-family: 'Inter', sans-serif !important;
 }
 
 #fapi-showUserForm textarea {
-    display: inline;
-    border-radius: 5px;
-    border: 1px solid #000;
-    background: #FFF200;
-    padding: 10px;
-    box-sizing: border-box;
-    font-family: 'Inter', sans-serif;
+    display: inline !important;
+    border-radius: 5px !important;
+    border: 1px solid #000 !important;
+    background: #FFF200 !important;
+    padding: 10px !important;
+    box-sizing: border-box !important;
+    font-family: 'Inter', sans-serif !important;
 }
 
 #ship, #bank {
-    display: none;
+    display: none !important;
 }
 
 #fapi-form-footer {
-    margin-top: 5px;
-    text-align: center;
-    font-size: 12px;
-    color: #b8b7b7;
+    margin-top: 5px !important;
+    text-align: center !important;
+    font-size: 12px !important;
+    color: #b8b7b7 !important;
 }
 
 #fapi-form-footer a {
-    color: #b8b7b7;
+    color: #b8b7b7 !important;
 }
 
 .fapi-form-only-czk, .fapi-form-only-eur {
-    display: none;
+    display: none !important;
 }
 
 .fapi-form-total {
-    display: none;
+    display: none !important;
 }
 
 .fapi-form-total table {
-    font-size: 14px;
+    font-size: 14px !important;
 }
 
 .fapi-form-total th {
-    font-weight: bold;
+    font-weight: bold !important;
 }
 
 .fapi-form-warn {
-    border: 1px solid #e9c1c1;
-    border-radius: 6px;
-    padding: 10px;
-    background: #fde9e9;
-    color: #bc251b;
-    margin-bottom: 15px;
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 1.3;
+    border: 1px solid #e9c1c1 !important;
+    border-radius: 6px !important;
+    padding: 10px !important;
+    background: #fde9e9 !important;
+    color: #bc251b !important;
+    margin-bottom: 15px !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    line-height: 1.3 !important;
 }
 
 #fapi-showUserForm .fapi-form-loading {
-    background: url("../images/ajax_loader.gif") no-repeat bottom;
-    padding-bottom: 32px;
+    background: url("../images/ajax_loader.gif") no-repeat bottom !important;
+    padding-bottom: 32px !important;
 }
 
 #fapi-showUserForm label span.description {
-    display: block;
-    font-weight: normal;
-    color: #666;
-    padding-left: 22px;
-    padding-top: 5px;
-    line-height: 1em;
+    display: block !important;
+    font-weight: normal !important;
+    color: #666 !important;
+    padding-left: 22px !important;
+    padding-top: 5px !important;
+    line-height: 1em !important;
 }
 
 #fapi-showUserForm input[type=submit] {
-    width: auto;
-    font-size: 20px;
-    padding: 0.5em;
-    margin: 20px auto;
-    border: 1px solid #000;
-    display: block;
-    background: #FFF200;
-    color: #000;
-    border-radius: 8px;
-    cursor: pointer;
+    width: auto !important;
+    font-size: 20px !important;
+    padding: 0.5em !important;
+    margin: 20px auto !important;
+    border: 1px solid #000 !important;
+    display: block !important;
+    background: #FFF200 !important;
+    color: #000 !important;
+    border-radius: 8px !important;
+    cursor: pointer !important;
 }
 
 #fapi-showUserForm input[type=submit]:hover {
-    opacity: 0.85;
+    opacity: 0.85 !important;
 }
 
 #fapi-showUserForm .fapi-form-payment-method-option {
-    padding-top: 0;
-    margin-bottom: 15px;
+    padding-top: 0 !important;
+    margin-bottom: 15px !important;
 }
 
 #fapi-showUserForm .fapi-form-payment-method-option.fapi-form-first {
-    margin-top: 0;
+    margin-top: 0 !important;
 }
 
 #fapi-showUserForm .fapi-form-payment-method-option label {
-    display: block;
+    display: block !important;
 }
 
 #fapi-showUserForm .fapi-form-payment-method-option .payment-method-name {
-    font-weight: normal;
+    font-weight: normal !important;
 }
 
 #fapi-showUserForm .fapi-form-payment-method-option .fapi-form-icons {
-    display: block;
-    margin-top: 2px;
-    padding-left: 22px;
+    display: block !important;
+    margin-top: 2px !important;
+    padding-left: 22px !important;
 }
 
 #fapi-showUserForm .fapi-text-success {
-    color: #5bb75b;
+    color: #5bb75b !important;
 }
 
 #fapi-showUserForm .fapi-text-danger {
-    color: #bd362f;
+    color: #bd362f !important;
 }
 
 #fapi-showUserForm .fapi-form-discount-code input[type=text] {
-    width: 50%;
+    width: 50% !important;
 }
 
 #fapi-showUserForm #fapi-state {
-    color: #555;
-    font-family: 'Inter', sans-serif;
-    font-size: 1em;
+    color: #555 !important;
+    font-family: 'Inter', sans-serif !important;
+    font-size: 1em !important;
 }
 
 #fapi-showUserForm .fapi-form-discount-code input[type=button] {
-    display: inline;
-    margin-left: 10px;
-    padding: 3px 12px;
-    height: 35px;
-    color: #000;
-    background-color: #FFF200;
-    font-size: 14px;
-    text-align: center;
-    vertical-align: middle;
-    font-family: 'Inter', sans-serif;
-    line-height: 1em;
-    text-transform: none;
-    font-weight: normal;
-    border: 1px solid #000;
-    border-radius: 4px;
-    cursor: pointer;
+    display: inline !important;
+    margin-left: 10px !important;
+    padding: 3px 12px !important;
+    height: 35px !important;
+    color: #000 !important;
+    background-color: #FFF200 !important;
+    font-size: 14px !important;
+    text-align: center !important;
+    vertical-align: middle !important;
+    font-family: 'Inter', sans-serif !important;
+    line-height: 1em !important;
+    text-transform: none !important;
+    font-weight: normal !important;
+    border: 1px solid #000 !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
 }
 
 #fapi-showUserForm .fapi-form-discount-code input[type=button]:hover {
-    border: 1px solid #aaa;
+    border: 1px solid #aaa !important;
 }
 
 #fapi-showUserForm .fapi-terms {
-    font-size: 14px;
-    font-weight: normal;
+    font-size: 14px !important;
+    font-weight: normal !important;
 }
 
 #fapi-showUserForm .fapi-form-purpose {
-    font-size: 14px;
-    font-weight: normal;
+    font-size: 14px !important;
+    font-weight: normal !important;
 }
 
 #fapi-showUserForm .pay-method-header {
-    margin-left: 0px;
-    font-size: 14px;
-    text-transform: none;
-    font-weight: bold;
-    padding-top: 5px;
-    padding-bottom: 3px;
+    margin-left: 0px !important;
+    font-size: 14px !important;
+    text-transform: none !important;
+    font-weight: bold !important;
+    padding-top: 5px !important;
+    padding-bottom: 3px !important;
 }
 
 #fapi-showUserForm .tooltip-fapi {
-    margin-left: 10px;
+    margin-left: 10px !important;
 }
